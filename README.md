@@ -14,9 +14,9 @@ This repository contains an implementation of the paper [1],[2]:
 ## Structure
 
 Some code is duplicated in multiple subfolders. The idea behind that is that the following subfolders can be used as standalone packages
-- diffeo-lyapunov/lya-limit           Code for learning Lyapunov functions for limit cycle systems
-- diffeo-lyapunov/lya-multi-eq        Code for learning Lyapunov functions for multi-equilibria systems
-- diffeo-lyapunov/lya-single-eq       Code for learning Lyapunov functions for single-equilibrium systems
+- ```diffeo-lyapunov/lya-limit```           Code for learning Lyapunov functions for limit cycle systems
+- ```diffeo-lyapunov/lya-multi-eq```        Code for learning Lyapunov functions for multi-equilibria systems
+- ```diffeo-lyapunov/lya-single-eq```       Code for learning Lyapunov functions for single-equilibrium systems
 
 ---
 ## References
