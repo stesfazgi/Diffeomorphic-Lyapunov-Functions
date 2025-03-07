@@ -2,9 +2,9 @@
 
 This repository contains an implementation of the paper [1],[2]:
 
-[1] Tesfazgi, S., Sprandl, L., & Hirche, S. "Learning Diffeomorphic Lyapunov Functions from Data" in International Conference on Machine Learning (ICML) - Workshop on Geometry-grounded Representation Learning and Generative Modeling, 2024 [full paper](https://openreview.net/pdf?id=DUjZJe7wfF)
+[1] Tesfazgi, S., Sprandl, L., & Hirche, S. "Learning Diffeomorphic Lyapunov Functions from Data", *International Conference on Machine Learning (ICML) - Workshop on Geometry-grounded Representation Learning and Generative Modeling*, 2024 [full paper](https://openreview.net/pdf?id=DUjZJe7wfF)
 
-[2] Tesfazgi, S., Sprandl, L., & Hirche, S. "Learning Geometrically-Informed Lyapunov Functions with Deep Diffeomorphic RBFNs" in International Conference on Artificial Intelligence and Statistics (AISTATS), 2025 
+[2] Tesfazgi, S., Sprandl, L., & Hirche, S. "Learning Geometrically-Informed Lyapunov Functions with Deep Diffeomorphic RBFNs", *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2025 
 
 ---
 
